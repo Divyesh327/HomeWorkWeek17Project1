@@ -1,0 +1,259 @@
+2021-06-29 22:06:770 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:210 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:614 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:647 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:395 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:900 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:643 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:33 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:105 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 22:06:23 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:941 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:949 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (ebdcedbe61fab30a4169e629ed7e5562)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:385 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (ebdcedbe61fab30a4169e629ed7e5562)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:960 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:758 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (b44df72362d4178d486d8b924e1b3b37)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:278 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (b44df72362d4178d486d8b924e1b3b37)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:311 INFO  DesktopPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b44df72362d4178d486d8b924e1b3b37)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 23:06:990 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:233 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (f25df6fc8c126f826ba30492a51992c8)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:621 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (f25df6fc8c126f826ba30492a51992c8)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:720 INFO  DesktopPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f25df6fc8c126f826ba30492a51992c8)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 23:06:458 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:454 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (1bda27e79a402ad8bb973436880e4f18)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:293 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (1bda27e79a402ad8bb973436880e4f18)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:327 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1bda27e79a402ad8bb973436880e4f18)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 23:06:353 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:625 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:390 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:306 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (5e09a56c9c0c747488301c04e168bded)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:808 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (5e09a56c9c0c747488301c04e168bded)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:840 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5e09a56c9c0c747488301c04e168bded)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 23:06:742 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:380 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:573 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:587 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:943 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:170 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (efae3ead2c5a5b8328b7ad155caf7435)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:741 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (efae3ead2c5a5b8328b7ad155caf7435)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:774 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (efae3ead2c5a5b8328b7ad155caf7435)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 23:06:904 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:607 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:60 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (273a384fb8d53f502e3431461d78f720)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:673 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (273a384fb8d53f502e3431461d78f720)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:705 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (273a384fb8d53f502e3431461d78f720)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 23:06:218 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:653 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (8cf69ddf354473d76b135ae38aa2e0de)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:41 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (8cf69ddf354473d76b135ae38aa2e0de)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:71 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8cf69ddf354473d76b135ae38aa2e0de)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 23:06:997 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:364 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-29 23:06:442 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (66cf68a75667ff8e5d683012897afbf7)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:776 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (66cf68a75667ff8e5d683012897afbf7)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 23:06:814 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (66cf68a75667ff8e5d683012897afbf7)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:829 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:481 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:654 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:209 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:302 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:579 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:179 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:286 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:354 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:710 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (96feb637fb396ca28677c09a5dcf52c1)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:709 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (96feb637fb396ca28677c09a5dcf52c1)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:756 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (96feb637fb396ca28677c09a5dcf52c1)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:378 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:700 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (840cc63e5a716615cd9c10b967c370c3)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:175 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (840cc63e5a716615cd9c10b967c370c3)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:211 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (840cc63e5a716615cd9c10b967c370c3)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:969 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:758 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (61585b896fe7771cb8f196e75dce45fe)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:162 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (61585b896fe7771cb8f196e75dce45fe)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:194 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (61585b896fe7771cb8f196e75dce45fe)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:114 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:34 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:112 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (e3ae4e85e3a4cfb76c9e35c537803d23)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:678 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (e3ae4e85e3a4cfb76c9e35c537803d23)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:713 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e3ae4e85e3a4cfb76c9e35c537803d23)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:699 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:321 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (6e132c1010fa55ea6e6c08272ee58a4c)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:973 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (6e132c1010fa55ea6e6c08272ee58a4c)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:09 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6e132c1010fa55ea6e6c08272ee58a4c)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:160 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (6e132c1010fa55ea6e6c08272ee58a4c)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 10:06:81 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:852 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (fe9200b5ea15f253f7236d8923a2107d)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:419 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (fe9200b5ea15f253f7236d8923a2107d)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:452 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (fe9200b5ea15f253f7236d8923a2107d)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:955 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:689 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:974 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (efbcef3d2f267dc38795113a4d26e047)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:395 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (efbcef3d2f267dc38795113a4d26e047)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:423 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (efbcef3d2f267dc38795113a4d26e047)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:447 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:963 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (7594eea57f6dbff0618eb7b8331ec2bb)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:289 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (7594eea57f6dbff0618eb7b8331ec2bb)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:323 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7594eea57f6dbff0618eb7b8331ec2bb)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:504 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (7594eea57f6dbff0618eb7b8331ec2bb)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 10:06:536 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7594eea57f6dbff0618eb7b8331ec2bb)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:96 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:438 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (d5d9641844d2cf4ff570bd0453c52c57)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:796 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (d5d9641844d2cf4ff570bd0453c52c57)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:832 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d5d9641844d2cf4ff570bd0453c52c57)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:158 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:500 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:716 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (342d0e5dc3f628eee7a26353b1b49339)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:576 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (342d0e5dc3f628eee7a26353b1b49339)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:622 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (342d0e5dc3f628eee7a26353b1b49339)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:541 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:466 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (5d4ad8bc952f78deef45f9b1e4d03b58)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:47 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (5d4ad8bc952f78deef45f9b1e4d03b58)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:79 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5d4ad8bc952f78deef45f9b1e4d03b58)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:224 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (5d4ad8bc952f78deef45f9b1e4d03b58)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 10:06:250 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5d4ad8bc952f78deef45f9b1e4d03b58)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:739 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:140 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (8d93c95bbe131329896540c615876c83)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:56 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (8d93c95bbe131329896540c615876c83)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:88 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8d93c95bbe131329896540c615876c83)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:951 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:69 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (0832d4e93bbc21cec751ead5d1236cc9)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:868 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (0832d4e93bbc21cec751ead5d1236cc9)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:902 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0832d4e93bbc21cec751ead5d1236cc9)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:421 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:243 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (164d068ad83d6c0e1f7f9f200d2c6a2e)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:916 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (164d068ad83d6c0e1f7f9f200d2c6a2e)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:963 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (164d068ad83d6c0e1f7f9f200d2c6a2e)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 10:06:140 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (164d068ad83d6c0e1f7f9f200d2c6a2e)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 10:06:756 INFO  BuildYourOwnComputerPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (164d068ad83d6c0e1f7f9f200d2c6a2e)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 10:06:806 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 10:06:985 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (87be65d2783b88a3b6678a67fc65b1f8)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:106 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (87be65d2783b88a3b6678a67fc65b1f8)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 10:06:162 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (87be65d2783b88a3b6678a67fc65b1f8)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:346 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:451 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (216bca14fa61ed3808c9099ac62f03ba)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:824 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (216bca14fa61ed3808c9099ac62f03ba)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:859 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (216bca14fa61ed3808c9099ac62f03ba)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:217 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:728 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (144323875b5932c5357cef1e1f01b83f)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:184 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (144323875b5932c5357cef1e1f01b83f)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:219 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (144323875b5932c5357cef1e1f01b83f)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:383 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (144323875b5932c5357cef1e1f01b83f)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 11:06:84 INFO  BuildYourOwnComputerPage :22 - Getting text from : [[ChromeDriver: chrome on WINDOWS (144323875b5932c5357cef1e1f01b83f)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 11:06:155 INFO  BuildYourOwnComputerPage :28 - Getting text from : [[ChromeDriver: chrome on WINDOWS (144323875b5932c5357cef1e1f01b83f)] -> id: product_attribute_2]
+2021-06-30 11:06:779 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:109 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (9e63eb6c376b484ac7cf857cac8df936)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:527 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (9e63eb6c376b484ac7cf857cac8df936)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:558 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9e63eb6c376b484ac7cf857cac8df936)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:552 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:826 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (15ebf620a757c1357ea8baa8be914c65)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:169 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (15ebf620a757c1357ea8baa8be914c65)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:206 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (15ebf620a757c1357ea8baa8be914c65)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:349 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (15ebf620a757c1357ea8baa8be914c65)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 11:06:976 INFO  BuildYourOwnComputerPage :22 - Getting text from : [[ChromeDriver: chrome on WINDOWS (15ebf620a757c1357ea8baa8be914c65)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 11:06:942 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:319 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (3c7f1c2cef8f7510834ba226427f1efb)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:142 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (3c7f1c2cef8f7510834ba226427f1efb)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:180 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3c7f1c2cef8f7510834ba226427f1efb)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:317 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:689 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (9d3a62af5fc409d682dfda1c2c0ad73f)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:200 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (9d3a62af5fc409d682dfda1c2c0ad73f)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:232 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9d3a62af5fc409d682dfda1c2c0ad73f)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:302 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:710 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (6b5898f025078afdcd16b084e79cbb9a)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:180 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (6b5898f025078afdcd16b084e79cbb9a)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:212 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6b5898f025078afdcd16b084e79cbb9a)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:368 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (6b5898f025078afdcd16b084e79cbb9a)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 11:06:354 INFO  BuildYourOwnComputerPage :22 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6b5898f025078afdcd16b084e79cbb9a)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 11:06:32 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:455 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (a98943e9ff0d3e599c5e9ccafa59987d)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:820 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (a98943e9ff0d3e599c5e9ccafa59987d)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:852 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a98943e9ff0d3e599c5e9ccafa59987d)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:160 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:642 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (9282c57afd5e9744b17b7d98dc35a1c4)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:61 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (9282c57afd5e9744b17b7d98dc35a1c4)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:92 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9282c57afd5e9744b17b7d98dc35a1c4)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:240 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (9282c57afd5e9744b17b7d98dc35a1c4)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 11:06:305 INFO  BuildYourOwnComputerPage :22 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9282c57afd5e9744b17b7d98dc35a1c4)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 11:06:187 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:588 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (4bba2da8ca58da5aa639988bd105df20)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:955 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (4bba2da8ca58da5aa639988bd105df20)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:989 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4bba2da8ca58da5aa639988bd105df20)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:768 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:908 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:125 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (b4e20b6cf78b589076285b69a8edde74)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:508 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (b4e20b6cf78b589076285b69a8edde74)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:542 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b4e20b6cf78b589076285b69a8edde74)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:884 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:691 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (47c2bb4642b0a2344a12598daca16b94)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:460 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (47c2bb4642b0a2344a12598daca16b94)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:499 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (47c2bb4642b0a2344a12598daca16b94)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:673 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (47c2bb4642b0a2344a12598daca16b94)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 11:06:852 INFO  BuildYourOwnComputerPage :22 - Getting text from : [[ChromeDriver: chrome on WINDOWS (47c2bb4642b0a2344a12598daca16b94)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 11:06:319 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:773 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (5e0a7b731725018a8543f77ca1e06f85)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:123 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (5e0a7b731725018a8543f77ca1e06f85)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:153 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5e0a7b731725018a8543f77ca1e06f85)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:128 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:463 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (34c7206b0da4dcf511f970044a7455ba)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:873 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (34c7206b0da4dcf511f970044a7455ba)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:907 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (34c7206b0da4dcf511f970044a7455ba)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 11:06:70 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (34c7206b0da4dcf511f970044a7455ba)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 11:06:757 INFO  BuildYourOwnComputerPage :22 - Getting text from : [[ChromeDriver: chrome on WINDOWS (34c7206b0da4dcf511f970044a7455ba)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 11:06:715 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 11:06:813 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (45f8830b6e605e80e561f04305dfbb5e)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:153 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (45f8830b6e605e80e561f04305dfbb5e)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:190 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (45f8830b6e605e80e561f04305dfbb5e)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 23:06:982 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-30 23:06:813 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 23:06:302 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 23:06:332 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //div[@class='page-title']//h1]
+2021-06-30 23:06:481 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 23:06:146 INFO  BuildYourOwnComputerPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-30 23:06:802 INFO  BuildYourOwnComputerPage :54 - Selection of Processor Attribute : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //select[@id='product_attribute_1']]
+2021-06-30 23:06:31 INFO  BuildYourOwnComputerPage :60 - Selection of Ram Attribute : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //select[@id='product_attribute_2']]
+2021-06-30 23:06:206 INFO  BuildYourOwnComputerPage :69 - Selection of HDD Attribute : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //input[@id='product_attribute_3_7']]
+2021-06-30 23:06:316 INFO  BuildYourOwnComputerPage :81 - Selection of OS Attribute : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-06-30 23:06:501 INFO  BuildYourOwnComputerPage :111 - Selection of Software Attribute : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //input[@id='product_attribute_5_12']]
+2021-06-30 23:06:539 INFO  BuildYourOwnComputerPage :115 - Verifying the Price : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //span[@id='price-value-1']]
+2021-06-30 23:06:767 INFO  BuildYourOwnComputerPage :121 - Click on Add to Cart Button : [[ChromeDriver: chrome on WINDOWS (de24c7de027e88be90c1a25b6d08b4c9)] -> xpath: //span[@id='price-value-1']]
+2021-06-30 23:06:961 INFO  BuildYourOwnComputerPage :125 - Verifying the Text, Product is added to Cart : Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='bar-notification']/div/p'
+2021-07-01 19:07:149 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-01 19:07:277 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-07-01 19:07:979 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-07-01 19:07:13 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //div[@class='page-title']//h1]
+2021-07-01 19:07:233 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-07-01 19:07:681 INFO  BuildYourOwnComputerPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-07-01 19:07:239 INFO  BuildYourOwnComputerPage :54 - Selection of Processor Attribute : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //select[@id='product_attribute_1']]
+2021-07-01 19:07:449 INFO  BuildYourOwnComputerPage :60 - Selection of Ram Attribute : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //select[@id='product_attribute_2']]
+2021-07-01 19:07:639 INFO  BuildYourOwnComputerPage :69 - Selection of HDD Attribute : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //input[@id='product_attribute_3_7']]
+2021-07-01 19:07:765 INFO  BuildYourOwnComputerPage :81 - Selection of OS Attribute : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-07-01 19:07:957 INFO  BuildYourOwnComputerPage :111 - Selection of Software Attribute : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //input[@id='product_attribute_5_12']]
+2021-07-01 19:07:999 INFO  BuildYourOwnComputerPage :115 - Verifying the Price : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //span[@id='price-value-1']]
+2021-07-01 19:07:207 INFO  BuildYourOwnComputerPage :121 - Click on Add to Cart Button : [[ChromeDriver: chrome on WINDOWS (3aa0be55057c56879faf0b7a2f349d83)] -> xpath: //span[@id='price-value-1']]
+2021-07-01 19:07:350 INFO  BuildYourOwnComputerPage :125 - Verifying the Text, Product is added to Cart : Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='bar-notification']/div/p'
+2021-07-01 19:07:30 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-01 19:07:749 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-07-01 19:07:323 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-07-01 19:07:355 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //div[@class='page-title']//h1]
+2021-07-01 19:07:571 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-07-01 19:07:583 INFO  BuildYourOwnComputerPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-07-01 19:07:819 INFO  BuildYourOwnComputerPage :54 - Selection of Processor Attribute : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //select[@id='product_attribute_1']]
+2021-07-01 19:07:89 INFO  BuildYourOwnComputerPage :60 - Selection of Ram Attribute : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //select[@id='product_attribute_2']]
+2021-07-01 19:07:194 INFO  BuildYourOwnComputerPage :69 - Selection of HDD Attribute : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //input[@id='product_attribute_3_7']]
+2021-07-01 19:07:290 INFO  BuildYourOwnComputerPage :81 - Selection of OS Attribute : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-07-01 19:07:513 INFO  BuildYourOwnComputerPage :111 - Selection of Software Attribute : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //input[@id='product_attribute_5_12']]
+2021-07-01 19:07:574 INFO  BuildYourOwnComputerPage :115 - Verifying the Price : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //span[@id='price-value-1']]
+2021-07-01 19:07:825 INFO  BuildYourOwnComputerPage :121 - Click on Add to Cart Button : [[ChromeDriver: chrome on WINDOWS (26382d366f73783bc3b61d6234861115)] -> xpath: //span[@id='price-value-1']]
+2021-07-01 19:07:459 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-01 19:07:513 INFO  HomePage :23 - Hovering on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-07-01 19:07:93 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-07-01 19:07:128 INFO  DesktopPage :21 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //div[@class='page-title']//h1]
+2021-07-01 19:07:368 INFO  DesktopPage :28 - Click on Add to Cart Menu --> [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-07-01 19:07:871 INFO  BuildYourOwnComputerPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-07-01 19:07:107 INFO  BuildYourOwnComputerPage :54 - Selection of Processor Attribute : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //select[@id='product_attribute_1']]
+2021-07-01 19:07:311 INFO  BuildYourOwnComputerPage :60 - Selection of Ram Attribute : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //select[@id='product_attribute_2']]
+2021-07-01 19:07:455 INFO  BuildYourOwnComputerPage :69 - Selection of HDD Attribute : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //input[@id='product_attribute_3_7']]
+2021-07-01 19:07:564 INFO  BuildYourOwnComputerPage :81 - Selection of OS Attribute : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-07-01 19:07:862 INFO  BuildYourOwnComputerPage :111 - Selection of Software Attribute : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //input[@id='product_attribute_5_12']]
+2021-07-01 19:07:925 INFO  BuildYourOwnComputerPage :115 - Verifying the Price : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //span[@id='price-value-1']]
+2021-07-01 19:07:247 INFO  BuildYourOwnComputerPage :121 - Click on Add to Cart Button : [[ChromeDriver: chrome on WINDOWS (8977ed6893c4d5b348086adc95420a48)] -> xpath: //span[@id='price-value-1']]
